@@ -1,3 +1,12 @@
+## Environment
+- Ubuntu 18.04.1
+- Python 3.6
+- Cuda compilation tools, release 9.1, V9.1.85
+- Pytorch 1.5.0
+
+
+=== seperate line ====
+
 # video-object-removal
 Just draw a bounding box and you can remove the object you want to remove.
 ## Installation
